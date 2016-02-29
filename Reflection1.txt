@@ -1,0 +1,11 @@
+First:
+	This morning I began by learning about number conversion between dec, bin, oct, hex and time.
+Secondly:
+	I was taught about hardware, a majority of which I already knew. Then built a $20,000 server.
+	
+**LUNCH**
+
+Thirdly:
+	We were taught the basics of git hub...
+Lastly:
+	We were taught some slightly more advanced basics of git hub.
