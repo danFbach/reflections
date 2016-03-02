@@ -1,0 +1,3 @@
+First: we reviewed the networking protocals and what not...i was not suprised because i am already aware of this knowledge
+Dos: we did some work with batch (.bat) files...unfortunatly i messed up the file associations and was unable to complete the exercise
+then:we were taught about html/css and then spent the afternoon creating html/css documents
