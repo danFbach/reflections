@@ -1,0 +1,5 @@
+Reflection 7
+
+today we began working on the dice game, which we are modeling after blackjack...
+struggling with inheriting methods and similar. staying for after class tutor / study session.
+will look for clarificaion on these topics tonight.
