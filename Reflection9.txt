@@ -1,0 +1,4 @@
+Reflection 9
+
+I'm still pretty displeased with my dice project to be honest. I found it hard to work with someone else, it was seriously difficult to organize everything and communicate my intentions and ideas...I was happy that I was able to work on a solo project today. I was able to focus very easily and get the Nim project done very quickly and it turned out nearly flawlessly so I'm proud of that. I will begin working on the happy numbers project tonight and continue tomorrow, I plan to have it done before I leave tomorrow evening.
+Just need to get in some list and array practice with java, I had no problem working with lists and dictionaries in python when I did the prework so hopefully I can apply some of those skills and pick up java lists quickly.

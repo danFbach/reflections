@@ -1,0 +1,5 @@
+Reflection OCHO!	
+
+Today we are finishing up our project to make a dice game. Built the Ai for the game...i kind of question the complexity of the game.
+we have met all of the requirements except...possibly the complexity element. anyways, i think it'll be good.
+looking forward to learn some new stuff!!
