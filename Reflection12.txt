@@ -1,0 +1,6 @@
+Reflection 12
+Today I worked on te roman numeral converter. One thing that I learned today was that if I get stuck while writing code
+that instead of getting frustrated and/or giving up, I need to just look at it differently. Trying different strategies
+while creating code and functions can lead to much more productivity and helps me to be more creative. I tend to get stuck
+in a "template" kind of thing, where I attempt to use the "wrong tool for the job" because I am used to it and comfortable with it. So today I learned to break those rules a bit and experiment with other types and strategies of writing code and
+so far it has worked, so I will continue to code this way.
