@@ -1,0 +1,2 @@
+Reflection 16
+Finished the robot today. After looking at mikes code i think i need to work on the "object" oriented-ness of my coding, although i do do it, i dont do it to the extent that i should. but beyond that i coded the practice problems somewhat quickly and didn't have much issue.
