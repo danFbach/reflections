@@ -1,0 +1,2 @@
+Reflection 20
+today i really started to grasp using classes as dataypes. i also am using instantiation and inheritance well. project is coming along well and quickly. its going to turn out being a good project i think.
