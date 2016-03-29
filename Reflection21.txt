@@ -1,0 +1,2 @@
+Reflection 21
+I forgot to do a reflection earlier today but i did learn some stuff...i learned basic read and write functions in c#, allowing me to store very basic data but it does improve functionality. I also messed with console colors, at first for fun, but then realizing that it makes this incredibly easy to ready which is quite nice. the requirements have been met to the best of my knowledge, i look forward to some scrutiny tomorrow however.
