@@ -1,0 +1,2 @@
+Reflection 24
+Today, although I did pretty good on the project, there are still some things I could have done better structurally, using more classes and functions, breaking things up more. My "master class," although it works, is not terribly organized and it an enormous funtion...So that is something that i need to practice for future projects. I know how to instantiate, pass variables, and inherit, but i didn't use them to the extent that i should have.
