@@ -1,0 +1,2 @@
+Reflection 25
+Learning some new things. Learning this uml class diagram thing, it is actually helpful and I have been doing something very similar since the beginning. I'm struggling very slightly with inheritance, but nothing that I wont be able to figure out...it's my fault for not using it as much as I should have. Regardless, it's almost entirely necessary for me to use them on this project so I am going to have to figure it out! Other than that, things are going quite well, feeling possitive as of right now, so I'm just going to keep working at it.
