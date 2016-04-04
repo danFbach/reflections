@@ -1,0 +1,2 @@
+Reflection 26
+My experience with inheritance is increasing as i continue to use it. I didn't use it at all on my last project and so i felt obligated to use it in order to gain some experience. Im not pressuring myself to use inheritance, in this project the circumstanes are just right for the use of it and so it makes it easier to implement. The customer database is coming along nicely, I would like to export both the client list and animal list using filewriter/reader. Then thats left is finishing with the animals side of the project.
