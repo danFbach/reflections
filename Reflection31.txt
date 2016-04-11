@@ -1,0 +1,2 @@
+Reflection 31
+Today I made a lot of progress with the netflix project. I now understand how overloaded operators work and would be able to use them again. I've also learned how to use different access modifiers, I now know how to go deeper and get to more things using different methods. Started learning how to use unit testing. It will probably become more useful in the future but atleast I know how to use it and will know how when I actually need it...Other than that, looking forward to the next project!
