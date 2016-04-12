@@ -1,0 +1,2 @@
+Reflection 32
+Today I practiced a lot of important skills such as overloading operators, custom interators and other things that I need to practice. I'm getting good at these things and am getting a lot more comfortable using them. Just have to stay positive and continue working hard.
