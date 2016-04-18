@@ -1,0 +1,2 @@
+Reflection 36
+Today we learned about program performance and the different ways to measure, test and improve it. I found the lecture very informative and surely will be implementing these concepts when performance becomes more relevant. Other than that, I'm looking forward to tomorrow and learning more things.
