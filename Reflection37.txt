@@ -1,0 +1,2 @@
+relfection 37
+learned a lot about about design patterns today and what constitutes good code, acceptable code and bad code. we learned a good deal about what the workplace will feel like and how things will likely run. also learned about how to make sure that what you're adding to the source code is the best code it can be. interesting lecture today that brought what a workplace might look like into focus.
