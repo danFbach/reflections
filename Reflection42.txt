@@ -1,0 +1,3 @@
+Reflection 04/27/16
+
+Figured out databases and forms today in order to build client databases and an inventory. Tomorrow I would like to get the Google Maps Api figured out.
