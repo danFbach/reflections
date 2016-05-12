@@ -1,0 +1,2 @@
+Reflection 43
+Handling javascript quite well now after struggling for a few days...have built a bulletproof prime app and a bulletproof binary search tree that I have customized as much as I can think of doing. Looking forward to a new project using javascript in the near future. I should do quite well in project using javascript.
